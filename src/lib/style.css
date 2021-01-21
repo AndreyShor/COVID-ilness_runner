@@ -1,0 +1,61 @@
+.menuButton {
+   -fx-text-fill: black;
+   -fx-border-color: black ;
+   -fx-border-width: 3 ;
+   -fx-background-color: rgb(255, 255, 255);
+   -fx-padding: 15px 80px;
+   -fx-font-family: 'Arial', sans-serif;
+   -fx-font-weight: 800;
+   -fx-font-size: 20px;
+}
+
+.menuButton:hover {
+    -fx-background-color: rgb(233, 233, 233);
+}
+
+.menuButton:pressed {
+    -fx-background-color: rgb(135, 135, 135);
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+    -fx-text-fill: white;
+}
+
+.gameName {
+    -fx-text-fill: black;
+    -fx-font-family: 'Arial', sans-serif;
+    -fx-font-size: 30px;
+}
+
+.scoreLabel{
+    -fx-text-fill: black;
+    -fx-font-family: 'Arial', sans-serif;
+    -fx-font-size: 40px;
+}
+
+.h1_inst {
+    -fx-text-fill: black;
+    -fx-font-family: 'Arial', sans-serif;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+}
+
+.p_inst {
+    -fx-text-fill: black;
+    -fx-font-family: 'Arial', sans-serif;
+    -fx-font-size: 15px;
+    -fx-font-weight: 100;
+}
+
+.score {
+    -fx-text-fill: black;
+    -fx-font-family: 'Arial', sans-serif;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+}
+
+.gameOver{
+
+    -fx-text-fill: black;
+    -fx-font-family: 'Arial', sans-serif;
+    -fx-font-size: 50px;
+    -fx-font-weight: bold;
+}

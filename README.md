@@ -2,7 +2,7 @@
 Computer Game 
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/oRZkaqdNQos)
+[![Watch the video](https://github.com/AndreyShor/COVID-ilness_runner/blob/main/screen.jpg)](https://youtu.be/oRZkaqdNQos)
 
 ## Overview
 The main idea of the game is to create an arcade game in which the main character
@@ -10,6 +10,8 @@ will shrink from the virus keeping a 2 meter distance and look for face masks an
 antiseptics during the game to increase health
 
 ## Game Architecture
+
+![alt text](https://github.com/AndreyShor/COVID-ilness_runner/blob/main/arcitecture.jpg?raw=true)
 
 **GUI classes**
 

@@ -2,7 +2,7 @@
 Computer Game 
 
 
-[![Watch the video](https://github.com/AndreyShor/COVID-ilness_runner/blob/main/screen.jpg)](https://youtu.be/oRZkaqdNQos)
+[![Watch the video](https://github.com/AndreyShor/COVID-ilness_runner/blob/main/screen2.jpg)](https://youtu.be/oRZkaqdNQos)
 
 ## Overview
 The main idea of the game is to create an arcade game in which the main character
